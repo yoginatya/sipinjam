@@ -61,7 +61,7 @@ Admin:
 
 Mahasiswa:
 - Email: `mahasiswa@kampus.ac.id`
-- Password: `password`
+- Password: `87654321`
 
 ## Alternatif database
 
